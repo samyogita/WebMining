@@ -21,3 +21,7 @@ b) tags (title, p, a, div)
 c) all textual content.
 
 Note: Consider the input to be any website of your choice.
+
+WEB-MINING-DA3
+
+1. Create a Python programme that performs Elias Gamma Encoding and Decoding for even numbers ranging from 1 to 20.
